@@ -22,6 +22,7 @@ title: Tue Do
 email: tuedo2@illinois.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Academic research website for Tue Do
+googlescholar: "https://scholar.google.com/citations?hl=en&user=wmWJSxQAAAAJ"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
