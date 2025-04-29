@@ -8,6 +8,9 @@ title: Recent News
 
 # Recent News
 
+### 4-16-2025
+*Creator Hearts*, a paper I assisted with during my undergraduate got accepted to CHI 2025! Congratulations to Fred Choi and Charlotte Lambert for their hard work!
+
 ### 5-11-2024
 Graduated with a B.S. in Computer Science alongside another B.S. in Mathematics on my birthday!
 
