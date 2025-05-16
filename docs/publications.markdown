@@ -4,6 +4,8 @@ title: Publications
 permalink: /publications/
 ---
 
+[MemAttack: Efficiently attacking memorization scores] TBD
+
 [Creator Hearts: Investigating the Impact Positive Signals from YouTube Creators
 in Shaping Comment Section Behavior](https://arxiv.org/abs/2404.03612)\
 Frederick Choi, Charlotte Lambert, Vinay Koshy, Sowmya Pratipati, **Tue Do**, Eshwar Chandrasekharan\
