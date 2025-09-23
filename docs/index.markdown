@@ -8,9 +8,9 @@ title: Recent News
 
 # Recent News
 
-### 5-15-2025
+### 9-24-2025
 
-Submitted my first ever first-author paper to NeurIPS 2025! *MemAttack: Efficiently attacking memorization scores* coming soon to an arXiv near you! We motivate the need for robust algorithms in data markets by theoretically and empirically demonstrating the vulnerability of data influence functions to adversarial attack. Thanks to my wonderful advisor Varun Chandrasekaran and our brilliant collaborator Daniel Alabi for guiding me through my first research project start to finish.
+Submitted my first ever first-author paper to ICLR 2026! *Efficiently attacking memorization scores* is now available on arXiv. We motivate the need for robust algorithms in data markets by theoretically and empirically demonstrating the vulnerability of memorization functions to adversarial attack. Thanks to my advisors Daniel Alabi and Varun Chandrasekaran for guiding me through my first research project start to finish.
 
 ### 4-16-2025
 *Creator Hearts*, a paper I assisted with during my undergraduate got accepted to CHI 2025! Congratulations to Fred Choi and Charlotte Lambert for their hard work!

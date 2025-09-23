@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-[MemAttack: Efficiently attacking memorization scores] TBD
+[Efficiently attacking memorization scores] TBD
 
 [Creator Hearts: Investigating the Impact Positive Signals from YouTube Creators
 in Shaping Comment Section Behavior](https://arxiv.org/abs/2404.03612)\
