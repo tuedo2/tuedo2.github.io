@@ -4,7 +4,9 @@ title: Publications
 permalink: /publications/
 ---
 
-[Efficiently attacking memorization scores] TBD
+[Efficiently attacking memorization scores](https://tuedo2.github.io/publications/)\
+**Tue Do**, Varun Chandrasekaran, Daniel Alabi\
+*Submitted to ICLR 2026*
 
 [Creator Hearts: Investigating the Impact Positive Signals from YouTube Creators
 in Shaping Comment Section Behavior](https://arxiv.org/abs/2404.03612)\
