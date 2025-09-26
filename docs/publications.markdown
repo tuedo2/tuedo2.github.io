@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-[Efficiently attacking memorization scores](https://tuedo2.github.io/publications/)\
+[Efficiently attacking memorization scores](https://arxiv.org/abs/2509.20463)\
 **Tue Do**, Varun Chandrasekaran, Daniel Alabi\
 *Submitted to ICLR 2026*
 
