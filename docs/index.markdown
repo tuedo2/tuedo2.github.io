@@ -8,6 +8,10 @@ title: Recent News
 
 # Recent News
 
+### Fall 2026
+
+If you are reading this webpage as a prospective advisor in the Fall 2026 PhD application cycle, I want to assert that I am **very motivated** to finish a PhD for my future career goals, and have no intention of stopping at a MS.
+
 ### 10-30-2025
 
 I gave a talk for the **Security & Privacy Research @ Illinois Seminar** about our recent work, *Efficiently attacking memorization scores*. I was very nervous...
