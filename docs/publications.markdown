@@ -6,7 +6,7 @@ permalink: /publications/
 
 [Efficiently attacking memorization scores](https://arxiv.org/abs/2509.20463)\
 **Tue Do**, Varun Chandrasekaran, Daniel Alabi\
-*Submitted to ICLR 2026*
+*Submitted to TMLR*
 
 [Creator Hearts: Investigating the Impact Positive Signals from YouTube Creators
 in Shaping Comment Section Behavior](https://arxiv.org/abs/2404.03612)\
