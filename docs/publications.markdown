@@ -4,9 +4,13 @@ title: Publications
 permalink: /publications/
 ---
 
+[DIME: Query-Efficient Framework for Membership Inference on Diffusion Models]()\
+**Tue Do**, Daniel Alabi\
+*Submitted to USENIX 2027*
+
 [Efficiently attacking memorization scores](https://arxiv.org/abs/2509.20463)\
 **Tue Do**, Varun Chandrasekaran, Daniel Alabi\
-*Submitted to TMLR*
+*TMLR*
 
 [Creator Hearts: Investigating the Impact Positive Signals from YouTube Creators
 in Shaping Comment Section Behavior](https://arxiv.org/abs/2404.03612)\
