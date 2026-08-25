@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-[DIME: Query-Efficient Framework for Membership Inference on Diffusion Models]()\
+[DIME: Query-Efficient Framework for Membership Inference on Diffusion Models](https://arxiv.org/pdf/2608.22824)\
 **Tue Do**, Daniel Alabi\
 *Submitted to USENIX 2027*
 
