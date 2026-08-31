@@ -8,6 +8,10 @@ title: Recent News
 
 # Recent News
 
+### 8-31-2026
+
+We have released *DIME: Diffusion Ideal Membership Error*, a novel diffusion membership inference framework to the world! Checkout the [project page](https://tuedo2.github.io/dime-mia/) and my advisor's great explainer [blog post](https://alabidan.blog/2026/08/26/what-does-a-diffusion-model-remember/) for more details.
+
 ### 8-15-2026
 
 My first primary authored paper *Efficiently attacking memorization scores* has been accepted to TMLR! Many more to come.
