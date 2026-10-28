@@ -4,7 +4,11 @@ title: Publications
 permalink: /publications/
 ---
 
-[DIME: Query-Efficient Framework for Membership Inference on Diffusion Models](https://arxiv.org/pdf/2608.22824)\
+[Diffusion Sensitivity Geometry and Strong Duality for Optimal Privacy-Utility Tradeoffs](https://arxiv.org/abs/2610.28991)\
+**Tue Do**, Daniel Alabi\
+*arXiv preprint*
+
+[DIME: Query-Efficient Framework for Membership Inference on Diffusion Models](https://arxiv.org/abs/2608.22824)\
 **Tue Do**, Daniel Alabi\
 *Submitted to USENIX 2027*
 
